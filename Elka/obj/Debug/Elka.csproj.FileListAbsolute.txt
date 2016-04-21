@@ -1,0 +1,13 @@
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\bin\Debug\Elka.exe
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\bin\Debug\Elka.pdb
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\Elka.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\Elka_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\Elka_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\Elka.g.resources
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\Elka.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\Elka.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\Elka.exe
+E:\Dropbox\!Coding\All_in_one\Elka\Elka\obj\Debug\Elka.pdb
